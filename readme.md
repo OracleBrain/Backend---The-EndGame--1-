@@ -12,7 +12,7 @@ ejs, dynamic values
 error handling
 
 
-IN THIS VIDEO
+IN THIS REPO
 -------------------------------------------------------------
 express generator✔️
 mongodb
@@ -32,7 +32,7 @@ understanding cookies
       creating cookiies, using cookies accross routes and destroying cookies
 
 
-NEXT VIDEO ON -
+NEXT REPO ON -
 -----------------------------------------------------------
 socket .io - real time stuff
 api development
